@@ -1,2 +1,2 @@
-jedna linijka tekstu
+jedna linijka tekstu zmiana w master
 kolejna linijka 

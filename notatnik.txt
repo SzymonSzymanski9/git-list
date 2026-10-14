@@ -1,2 +1,5 @@
+
 jedna linijka tekstu zmiana w master
+jedna linijka tekstu zmieniona teraz w poprawka
+poprawka
 kolejna linijka 
